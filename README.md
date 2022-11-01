@@ -1,0 +1,1 @@
+M2 module for https://github.com/magento/magento2/pull/34559/commits

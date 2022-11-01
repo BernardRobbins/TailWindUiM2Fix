@@ -1,0 +1,22 @@
+{
+    "name": "bernardrobbins/module-tailwinduim2fix",
+    "description": "https://github.com/magento/magento2/pull/34559/commits",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Bernard Robbins",
+            "email": "bernardrobbinsiii@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "BernardRobbins\\TailwindUiM2Fix\\": ""
+        }
+    }
+}
